@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216789899738",
+    "project_id": "touch-app-f585b",
+    "storage_bucket": "touch-app-f585b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216789899738:android:4e936bbb4e192f819708e3",
+        "android_client_info": {
+          "package_name": "com.example.touch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216789899738-1e6l0qbd8k002a9u7k0ak296emj8gvet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6WG4LKBClSaQv5M02-zpRSLEnO7g-HDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216789899738-1e6l0qbd8k002a9u7k0ak296emj8gvet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
